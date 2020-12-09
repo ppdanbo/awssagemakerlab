@@ -4,7 +4,7 @@
 
 const shortbread = AWSCShortbread({
     domain: ".sagemaker-examples.readthedocs.io",
-    onConsetnChanged: () => {
+    onConsentChanged: () => {
         console.log("consent changed");
     }
 });
