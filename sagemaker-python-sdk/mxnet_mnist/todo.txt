@@ -1,0 +1,10 @@
+merge train remote and train local into one notebook
+
+inference / elastic inference / batch transform into different notebooks
+
+code/train.py
+code/inference.py
+
+use cross entropy instead of acc.
+
+
